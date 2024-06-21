@@ -2,7 +2,7 @@
 Projto python automação para trazer top 10 palavras-chave mais comentadas da internet.
 
 
-Descrição
+
 Este projeto é um bot em Python que utiliza a API do Google Trends para identificar as 10 palavras-chave mais populares e as que estão em ascensão no Brasil sobre qualquer tema. Ele foi desenvolvido para fornecer insights valiosos sobre as tendências atuais, sendo especialmente útil para profissionais de marketing, analistas de dados e entusiastas de tecnologia.
 
 Funcionalidades
