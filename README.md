@@ -18,7 +18,7 @@ Clone o repositório:
 
 bash
 Copiar código
-git clone https://github.com/seu-usuario/seu-repositorio.git
+https://github.com/Roque-Pro/topfinds.git
 Navegue até o diretório do projeto:
 
 bash
